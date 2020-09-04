@@ -1,0 +1,16 @@
+main: com.gmail.alexradu04.manhunt.MainPlugin
+name: ManhuntPlugin
+version: ${version}
+commands:
+  pos:
+    description: Displays your position or teleports you to another.
+    usage: "Usage: '/pos' to get current position, or '/pos x y z' to teleport to x,y,z"
+  debug:
+    description: Toggles your debugging status for this plugin.
+    usage: /debug
+  hunt:
+    description: Starts hunt season.
+    usage: "Usage: '/hunt [player] to start the manhunt minigame on a player"
+  stophunt:
+    description: Stops the hunt season
+    usage: /stophunt
