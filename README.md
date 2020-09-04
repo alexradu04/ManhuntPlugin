@@ -4,4 +4,4 @@ This is a Spigot Minecraft plugin built to recreate the Manhunt minigame played 
 
 # Installations
 
-For information on how to install the plugin, check the versions page
+For information on how to install the plugin, check the releases page
