@@ -18,7 +18,7 @@
         </SOURCES>
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../../spigotMC/spigot-1.16.2.jar!/" />
@@ -26,6 +26,17 @@
         <JAVADOC />
         <SOURCES>
           <root url="jar://$MODULE_DIR$/../../spigotMC/spigot-1.16.2.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../spigotMC/spigot-1.16.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../spigotMC/spigot-1.16.3.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
